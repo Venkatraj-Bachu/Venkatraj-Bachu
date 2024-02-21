@@ -8,7 +8,7 @@
 
 ###
 
-<img src="<img src="https://raw.githubusercontent.com/Venkatraj-Bachu/Venkatraj-Bachu/output/snake.svg" alt="Snake animation" />" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Venkatraj-Bachu/Venkatraj-Bachu/output/snake.svg" alt="Snake animation" />"
 
 ###
 
