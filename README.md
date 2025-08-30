@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Venkatraj-Bachu/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=Venkatraj-Bachu"/>
 </div>
 
 ###
